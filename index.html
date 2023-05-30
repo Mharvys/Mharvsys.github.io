@@ -270,6 +270,30 @@ form {
 width: 100%;
 margin: auto;
 }
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+  .column {
+    width: 100%;
+  }
+
 fieldset {
 padding: 20px;
 border: 1px solid ;
@@ -341,26 +365,18 @@ We are excited to see you. Get ready for another year of learning and growing to
 
         <section id="story" class="our-story">
         
-            </p>       
-            <div class="container">
-                <div class="img-story">
-                    <div class="img-001">
-                        <img src="https://www.minnpost.com/wp-content/uploads/2021/02/EmptySchoolHallwayLockers940.jpg?fit=940%2C635&strip=all" alt="image-001" width="200">
+            <div class="row">
+  <div class="column">
+ <img src="https://www.minnpost.com/wp-content/uploads/2021/02/EmptySchoolHallwayLockers940.jpg?fit=940%2C635&strip=all" alt="image-001" width="350">
+  </div>
+  <div class="column">
+   <img src="https://npr.brightspotcdn.com/dims4/default/8d550e1/2147483647/strip/true/crop/1566x965+0+135/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwunc%2Ffiles%2F201709%2Fhallway_no_locker.jpg" alt="image-001" width="350">
+  </div>
+  <div class="column">
+   <img src="https://image.cnbcfm.com/api/v1/image/106503301-1587672144711gettyimages-973727006.jpeg?v=1683901438" alt="image-001" width="350">
                     </div>
-        <div class="img-001">
-                        <img src="https://npr.brightspotcdn.com/dims4/default/8d550e1/2147483647/strip/true/crop/1566x965+0+135/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwunc%2Ffiles%2F201709%2Fhallway_no_locker.jpg" alt="image-001">
-                    </div>
-                    <div class="img-001">
-                        <img src="https://image.cnbcfm.com/api/v1/image/106503301-1587672144711gettyimages-973727006.jpeg?v=1683901438" alt="image-001">
-                    </div>
-
-
         </section>
 
-            
-
-
-        </section>
 
         <section id="weding" class="wedding">
                  <div class="txt">
