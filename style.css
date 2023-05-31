@@ -20,61 +20,32 @@ img {
   display:block;
 }
 
-.wiki-container {
-  max-width:960px;
-  margin:0 auto;
-}
 
-.wiki-container {
-
-  height:216px;
-}
-
-.wiki-container .school-info {
+.school-info {
   padding:25px;
 }
 
-.wiki-container .school-info > * {
+.school-info >  {
   display: inline-block;
   vertical-align:middle;
 }
 
-.wiki-container .school-info #school-logo {
+.school-info {
   margin-right:20px;
 }
 
-.wiki-container .school-info h1 {
+.school-info h1 {
   color:#000;
   font-size:24px;
   text-transform: uppercase;
 }
 
-.wiki-container nav {
-  background:linear-gradient(#fedb3e, #fed20f);
-}
-
-.wiki-container ul h3 {
-   font-family: 'Schoolbell', Helvetica, Arial, sans-serif;
-   font-size: 22px;
-   color: #0197d4;
-}
-
-.wiki-container nav li {
-  display:inline-block;
-  padding:15px;
-}
-
-.wiki-container .top-page.content, .wiki-container .wiki-area.content {
-  margin-top: 20px;
-  display:flex;
-}
 
 .wiki-container .top-page.content .slideshow {
   flex: 1 1 70%;
   padding-right: 25px;
 }
-
-.wiki-container .top-page.content .quick-links {
+ .top-page.content .quick-links {
   flex: 1 1 30%;
 }
 
@@ -116,21 +87,13 @@ img {
   margin-right:25px;
 }
 
-.wiki-area.content h2 {
-  text-transform: uppercase;
-  font-size:22px;
-  color:#0197d4;
-}
 
-.wiki-area.content h3 {
+.content h3 {
   text-transform: uppercase;
   font-size:18px;
-  color:#0197d4;
+  color:white;
 }
 
-.wiki-area.content .home-content ul.checklist li {
-  padding: 0 0 0 25px;
-}
 
 .wiki-area.content .home-sidebar h3 {
   padding-bottom:10px;
