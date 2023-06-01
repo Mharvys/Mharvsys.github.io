@@ -26,7 +26,6 @@ img {
 }
 
 .school-info >  {
-  display: inline-block;
   vertical-align:middle;
 }
 
@@ -35,78 +34,52 @@ img {
 }
 
 .school-info h1 {
-  color:#000;
+  color:purple;
+  text-shadow: 2px 2px white
   font-size:24px;
   text-transform: uppercase;
 }
 
 
-.wiki-container .top-page.content .slideshow {
+.content .image {
   flex: 1 1 70%;
   padding-right: 25px;
 }
- .top-page.content .quick-links {
+.content {
   flex: 1 1 30%;
 }
 
-.top-page.content .quick-links.quick-links-outer {
-    background: ;
-    border: 1px solid ;
-}
 
-.quick-links-inner {
+.links {
    padding: 20px;
 }
 
-.quick-links-inner h2 {
-  color:red;
+.links h2 {
+  color:white;
   margin-bottom:20px;
   text-align:center;
   font-size: 20px; 
   text-transform: uppercase;
 }
 
-.quick-links .item {
-  padding:10px;
-}
-
-.quick-links-inner li.item {
+.links li.item {
     padding: 12px;
     margin-bottom: 10px;
-}
-
-.wiki-container .wiki-area.content {
-  background: white;
-  padding:15px;
-  font-family: 'Schoolbell', Helvetica, Arial, sans-serif;
-  font-weight: bold;
-}
-
-.wiki-area.content .home-content {
-  flex: 1 1 70%;
-  margin-right:25px;
+    color:rgb(224, 219, 204);
 }
 
 
-.content h3 {
+
+.content {
   text-transform: uppercase;
   font-size:18px;
-  color:white;
+  background-color:rgb(179, 160, 105);
 }
 
 
-.wiki-area.content .home-sidebar h3 {
-  padding-bottom:10px;
-  border-bottom: 1px dotted ;
-}
 
-.wiki-area.content .home-sidebar {
-  flex: 1 1 30%;
-}
 
-.wiki-area.content .home-sidebar ul li {
-  margin-bottom: 30px;
-}
+
 .whiteabeg {
     background-color:blue;
 }
