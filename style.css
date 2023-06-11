@@ -95,8 +95,12 @@ img {
     line-height: 1.5;
 }
 
-
-
+body {
+  font-family: 'Slabo 27px', serif;
+  font-family: 'Montserrat', sans-serif;
+   background-color:rgb(126, 128, 116);
+     background-image: url('https://www.thatspopculture.com/img/news/editor/hogwarts.jpg');
+}
 
 .content .image {
   flex: 1 1 70%;
