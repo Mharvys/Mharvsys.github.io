@@ -14,7 +14,7 @@ body {
      background-color: silver;
 }
 
-img {
+.img .image {
   max-width: 100%;
   height: auto;
   display:flex;
@@ -215,7 +215,7 @@ h1{
   padding:25px;
 }
 
-.schoolinfo >  {
+.schoolinfo {
   vertical-align:middle;
 }
 
@@ -232,7 +232,7 @@ h4{
   font-size:24px;
   text-transform: uppercase;
 }
-.img {
+.img .image{
 display:flex;
 gap: 5px;
   
