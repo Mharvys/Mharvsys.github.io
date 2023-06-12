@@ -122,17 +122,13 @@ body {
   font-size:13px;
   background-color:rgb(179, 160, 105);
 }
-
-
 .item{
     color:blue;
 }
 
-
 .content {
   flex: 1 1 30%;
 }
-
 
 .links {
    padding: 20px;
@@ -173,9 +169,6 @@ body {
     line-height: 1.5;
 }
 
-
-
-
 .schoolinfo {
   padding:25px;
 }
@@ -191,9 +184,6 @@ h4{
     font-size: 20px;
 }
 
-p{
-    font-size:15px;
-}
 .schoolinfo h1{
   color:white;
   text-shadow: 2px 4px white
@@ -204,12 +194,7 @@ p{
 h1{
     color: red;
 }
-.maths h2{
-    color: indigo;
-}
-.maths p{
-    font-size:15px;
-}
+
 
 .schoolinfo {
   padding:25px;
