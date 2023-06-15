@@ -19,10 +19,6 @@ body {
 ol li {
   color: blue;
   padding: 5px;
-    padding-top: 50px;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px;
   margin-left: 35px;
 }
 ul li {
@@ -64,10 +60,6 @@ ul li {
 
 .links {
    padding: 20px;
-    padding-top: 50px;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px;
 }
 
 .links h2 {
