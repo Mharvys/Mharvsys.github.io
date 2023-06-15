@@ -12,6 +12,7 @@ body {
   font-family: 'Slabo 27px', serif;
   font-family: 'Montserrat', sans-serif;
      background-color: silver;
+        max-width: 150px;
 }
 
 ol li {
