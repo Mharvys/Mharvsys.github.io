@@ -12,10 +12,8 @@ body {
   font-family: 'Slabo 27px', serif;
   font-family: 'Montserrat', sans-serif;
      background-color: silver;
-       max-width: 80em;
-         width: 500px;
-  margin: auto;
-  border: 3px solid #73AD21;
+       max-width: 1000em;
+         
 }
 
 ol li {
