@@ -35,7 +35,9 @@ ul li {
 .content h2{
     color: red;
 }
-
+.content p{
+    color: brown;
+}
 .school-info {
   padding:60px;
   vertical-align:middle;
