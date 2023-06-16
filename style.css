@@ -43,8 +43,6 @@ ul li {
   vertical-align:middle;
     margin-right:20px;
 }
-
-
 .school-info h1 {
   color:purple;
   text-shadow: 2px 2px white
@@ -124,6 +122,7 @@ ul li {
 
 .content {
   flex: 1 1 30%;
+    background-color:silver;
 }
 
 .links {
@@ -185,8 +184,6 @@ h4{
 h1{
     color: red;
 }
-
-
 .schoolinfo {
   padding:25px;
 }
@@ -216,5 +213,3 @@ gap: 5px;
   text-align:center;
     color:blue;
 }
-
-
