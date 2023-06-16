@@ -32,7 +32,9 @@ ul li {
   display:flex;
    gap: 5px
 }
-
+.content h2{
+    color: red;
+}
 
 .school-info {
   padding:60px;
