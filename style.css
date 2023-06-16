@@ -52,10 +52,6 @@ ul li {
   text-transform: uppercase;
 }
 
-.content {
-  flex: 1 1 30%;
-}
-
 
 .links {
    padding: 20px;
