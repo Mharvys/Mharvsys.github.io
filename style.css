@@ -12,7 +12,8 @@ body {
   font-family: 'Slabo 27px', serif;
   font-family: 'Montserrat', sans-serif;
      background-color: silver;
-       max-width: 1000px;
+    max-width: 1000px;
+    margin: 0 auto;
          
 }
 
