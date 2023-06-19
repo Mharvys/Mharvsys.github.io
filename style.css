@@ -30,7 +30,7 @@ ul li {
   margin: 5px;
 }
 .img .image {
-  max-width: 200%;
+  max-width: 100%;
   display:flex;
    gap: 5px
 }
