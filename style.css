@@ -129,6 +129,7 @@ ul li {
 
 .content {
     background-color:grey;
+     max-width: 500em;
 }
 
 .links {
