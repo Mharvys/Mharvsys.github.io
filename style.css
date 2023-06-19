@@ -53,7 +53,10 @@ ul li {
   text-transform: uppercase;
 }
 
+.img{
+    width:250;
 
+}
 .links {
    padding: 20px;
 }
