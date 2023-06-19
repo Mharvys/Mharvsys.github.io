@@ -7,7 +7,9 @@ p, ul {
     font-weight: normal;
     line-height: 1.5;
 }
-
+.info h2{
+    font-size:29px;
+}
 body {
   font-family: 'Slabo 27px', serif;
   font-family: 'Montserrat', sans-serif;
@@ -35,6 +37,7 @@ ul li {
 }
 .content h2{
     color: red;
+    font-size:26px;
 }
 .content p{
     color: white;
