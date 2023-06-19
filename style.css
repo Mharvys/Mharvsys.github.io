@@ -53,10 +53,6 @@ ul li {
   text-transform: uppercase;
 }
 
-.img{
-    width:250;
-
-}
 .links {
    padding: 20px;
 }
@@ -125,11 +121,6 @@ ul li {
 
 .item{
     color:blue;
-}
-
-.content {
-    background-color:grey;
-     max-width: 500em;
 }
 
 .links {
@@ -211,6 +202,7 @@ h4{
 .img .image{
 display:flex;
 gap: 5px;
+    width:230px;
   
 .webpagetitle{
   text-align:center;
