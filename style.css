@@ -16,7 +16,10 @@ body {
     margin: auto;
          
 }
-
+.maths h2{
+    font-weight:bold;
+    color: gold;
+}
 ol li {
   color: blue;
   padding: 5px;
