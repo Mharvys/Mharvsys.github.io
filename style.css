@@ -89,6 +89,7 @@ ul li {
     font-style:italic;
       font-family: "Times New Roman", Times, serif;
 }
+
 .lane{
     color:white;
 }
@@ -149,12 +150,7 @@ ul li {
     color:rgb(224, 219, 204);
 }
 
-.whiteabeg{
-    font-size:20px;
-    font-style:italic;
-      font-family: "Times New Roman", Times, serif;
-    background-color:grey;
-}
+
 .lane{
     color:white;
 }
